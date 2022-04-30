@@ -7,6 +7,7 @@ This project improved accessbility for Horiseon Marketing Acgency. The motivatio
 
 
 
-**screen shot of live appliction 
+##screenshot of page
+
 ##Link to Live Webpage
-https://abbyrosenthal.github.io/urban-octo-telegram/
+https://abbyrosenthal.github.io/urban-octo-telegram/ 
