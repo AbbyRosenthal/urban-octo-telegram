@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-<Urban Octo Telegram Website>
+<Horiseon Website>
 
 ##Descritpion
 
@@ -8,6 +8,7 @@ This project improved accessbility for Horiseon Marketing Acgency. The motivatio
 
 
 ##screenshot of page
+[](assets/images/Horiseon Screenshot.png)
 
 ##Link to Live Webpage
 https://abbyrosenthal.github.io/urban-octo-telegram/ 
